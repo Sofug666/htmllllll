@@ -1,0 +1,15 @@
+.block {
+    border: 1px solid black;
+    background-color: white;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+.block:hover {
+    background-color: blue;
+    color: white;
+}
+.inner {
+   justify-content: center;
+   display: flex;
+}
