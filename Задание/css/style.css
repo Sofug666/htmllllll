@@ -9,8 +9,5 @@
 .block {
     border: 2px solid black;
     border-radius: 25px;
-}
-.block2 {
-    border: 50px solid white;
-    border-radius: 25px;
+    padding: 1% 1% 1% 1%;
 }
