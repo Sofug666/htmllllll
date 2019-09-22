@@ -1,0 +1,16 @@
+.word-red {
+    color: red;
+}
+.outer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.block {
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.block2 {
+    border: 50px solid white;
+    border-radius: 25px;
+}
